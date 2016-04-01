@@ -1,0 +1,13 @@
+{
+  "name": "leftpad-stream",
+  "version": "1.0.0",
+  "description": "Transform stream that leftpads input",
+  "main": "index.js",
+  "keywords": ["left-pad", "leftpad"],
+  "author": "Will Binns-Smith <wbinnssmith@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "left-pad": "^1.0.1",
+    "through2": "^2.0.1"
+  }
+}
